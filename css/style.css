@@ -19,6 +19,10 @@ h1{
     font-weight: <weight>;
     font-style: normal;
     font-variation-settings:
-      "wdth" 100;
+      "wdth" 100; 
+      
   
+}
+h1{
+    color:red;
 }
