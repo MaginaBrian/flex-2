@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=Sigmar&display=swap');
+
+
+
+
+
+#center{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+
+ 
+    font-family: "IBM Plex Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  
+}
